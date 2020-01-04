@@ -2,8 +2,6 @@
 
 This is an data analysis project of NYC taxi trips from 2009 to 2012. Here you have instructions to reproduce the results.
 
-[TOCM]
-
 ## Getting the data
 
 To reproduce the results, first of all you have to get the dataset and create a folder named "data" in the principal folder (NYC-Taxi-Trips). The links to the datasets can be found below.
