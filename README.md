@@ -16,6 +16,12 @@ To reproduce the results, first of all you have to get the dataset and create a 
 
 The analysis was made using some python libraries. Install the dependencies from "requirements.txt" to get the correct versions.
 
+*Tip: You can create an virtual-env to not lose your actual versions, it could your other projects. You can see more about virtual-envs [here](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)*
+
 ```sh
 $ pip install -r requirements.txt
 ```
+
+## Using
+
+Now you can use our notebook trying to reproduce our results. Any doubts please contact me :)
